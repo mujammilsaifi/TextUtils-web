@@ -1,5 +1,10 @@
-# Getting Started with Create React App
+*********************TextUtils-web Description*************************
 
+This project developed by ReactJs and Bootstrap.This web page operation can perform like convet text uppercase to lowercase, word count, remove spaceetc. it can run on localhost command->npm start
+
+***********************************************************************
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
